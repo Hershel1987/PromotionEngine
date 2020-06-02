@@ -1,0 +1,6 @@
+E:\Himanshu Jadav\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+E:\Himanshu Jadav\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+E:\Himanshu Jadav\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+E:\Himanshu Jadav\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache
+E:\Himanshu Jadav\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+E:\Himanshu Jadav\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
